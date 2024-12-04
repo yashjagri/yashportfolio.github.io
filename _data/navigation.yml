@@ -9,10 +9,11 @@ main:
     url: /files/Yash_Resume_Coop.pdf
   
   - title: "Projects"
-    url: /publications/
+    url: /projects/
     
   - title: "Competitions and Awards"
-    url: /posts/
+    url: /comps
+    /
         
 
     
