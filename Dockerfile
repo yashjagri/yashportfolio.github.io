@@ -22,3 +22,4 @@ EXPOSE 4000
 # Command to serve the Jekyll site
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--watch"]
 
+
